@@ -1,2 +1,2 @@
 def run_guessing_game
-  secret = Random.
+  secret = Random.rand
